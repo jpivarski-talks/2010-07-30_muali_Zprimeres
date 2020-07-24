@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="MuonAlignment.xsl"?>
+<MuonAlignment>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="1" />
+  <setposition relativeto="ideal" x="-0.24476624" y="1.29583740" z="-0.62704468" phix="-0.00041441" phiy="0.00000322" phiz="0.00033958" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="2" />
+  <setposition relativeto="ideal" x="-0.51053018" y="1.06634521" z="-0.18498442" phix="0.00019361" phiy="-0.00163159" phiz="-0.00047816" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="3" />
+  <setposition relativeto="ideal" x="-0.44609419" y="1.15997314" z="0.41554111" phix="-0.00020067" phiy="-0.00153100" phiz="0.00003953" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="4" />
+  <setposition relativeto="ideal" x="-0.14909363" y="1.09191895" z="0.81497192" phix="-0.00032427" phiy="0.00015714" phiz="0.00046521" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="5" />
+  <setposition relativeto="ideal" x="0.48513636" y="1.01715088" z="0.45780400" phix="-0.00059648" phiy="0.00179869" phiz="0.00076161" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="6" />
+  <setposition relativeto="ideal" x="0.46514123" y="1.10424805" z="-0.08686774" phix="-0.00016242" phiy="0.00212575" phiz="0.00013943" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="7" />
+  <setposition relativeto="ideal" x="-0.05112457" y="1.28485107" z="-0.65219116" phix="-0.00038880" phiy="0.00141036" phiz="-0.00034324" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="8" />
+  <setposition relativeto="ideal" x="-0.50849487" y="2.36553955" z="-0.32806561" phix="0.00013051" phiy="-0.00172061" phiz="0.00170610" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="9" />
+  <setposition relativeto="ideal" x="-0.37150225" y="1.10144043" z="0.30264046" phix="-0.00079675" phiy="-0.00193873" phiz="0.00230980" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="10" />
+  <setposition relativeto="ideal" x="-0.06908798" y="1.42358398" z="0.72933960" phix="0.00064491" phiy="0.00034205" phiz="0.00129269" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="11" />
+  <setposition relativeto="ideal" x="0.27507086" y="1.09930420" z="0.17394646" phix="0.00033130" phiy="0.00348040" phiz="0.00008503" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="1" sector="12" />
+  <setposition relativeto="ideal" x="0.19380787" y="1.21655273" z="-0.42415552" phix="0.00032166" phiy="0.00296409" phiz="0.00002827" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="1" />
+  <setposition relativeto="ideal" x="-0.28357315" y="0.91723633" z="-0.77929688" phix="-0.00042093" phiy="0.00000375" phiz="0.00006054" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="2" />
+  <setposition relativeto="ideal" x="-0.37192116" y="0.89074707" z="-0.42647394" phix="-0.00012906" phiy="-0.00188779" phiz="-0.00104211" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="3" />
+  <setposition relativeto="ideal" x="-0.45424462" y="1.04766846" z="0.27798569" phix="-0.00094867" phiy="-0.00191174" phiz="-0.00009827" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="4" />
+  <setposition relativeto="ideal" x="-0.14629173" y="1.26745605" z="0.69000244" phix="0.00012508" phiy="-0.00075683" phiz="0.00032049" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="5" />
+  <setposition relativeto="ideal" x="0.49811637" y="1.18554687" z="0.41961711" phix="-0.00020824" phiy="0.00158357" phiz="-0.00052676" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="6" />
+  <setposition relativeto="ideal" x="0.53511258" y="1.27008057" z="-0.13076064" phix="-0.00082345" phiy="0.00197539" phiz="-0.00047994" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="7" />
+  <setposition relativeto="ideal" x="0.09982109" y="1.25927734" z="-0.62225342" phix="-0.00065542" phiy="-0.00000357" phiz="-0.00004799" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="8" />
+  <setposition relativeto="ideal" x="-0.30181741" y="1.19494629" z="-0.48971254" phix="-0.00017666" phiy="-0.00257608" phiz="0.00060098" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="9" />
+  <setposition relativeto="ideal" x="-0.20209865" y="1.28271484" z="0.17572872" phix="-0.00006402" phiy="-0.00201509" phiz="-0.00017751" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="10" />
+  <setposition relativeto="ideal" x="-0.05779839" y="1.51635742" z="0.36798096" phix="0.00004588" phiy="0.00045861" phiz="0.00102385" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="11" />
+  <setposition relativeto="ideal" x="0.21654793" y="1.28240967" z="0.11896850" phix="-0.00003402" phiy="0.00109448" phiz="0.00025507" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="2" sector="12" />
+  <setposition relativeto="ideal" x="0.19436524" y="1.37316895" z="-0.48514900" phix="0.00075375" phiy="0.00252388" phiz="0.00021144" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="1" />
+  <setposition relativeto="ideal" x="-0.10333824" y="1.01385498" z="-0.69763184" phix="-0.00037747" phiy="0.00000381" phiz="-0.00018178" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="2" />
+  <setposition relativeto="ideal" x="-0.26215743" y="1.15173340" z="-0.21688737" phix="-0.00013200" phiy="-0.00188223" phiz="0.00013469" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="3" />
+  <setposition relativeto="ideal" x="-0.27828292" y="1.04327393" z="0.38440493" phix="-0.00024825" phiy="-0.00175048" phiz="0.00032738" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="4" />
+  <setposition relativeto="ideal" x="-0.00741959" y="1.17425537" z="0.66278076" phix="-0.00081034" phiy="0.00077517" phiz="0.00052943" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="5" />
+  <setposition relativeto="ideal" x="0.48800679" y="0.89447021" z="0.43979602" phix="0.00037209" phiy="0.00155630" phiz="-0.00069766" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="6" />
+  <setposition relativeto="ideal" x="0.61206706" y="1.16992187" z="-0.14771671" phix="-0.00029826" phiy="0.00171578" phiz="-0.00074851" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="7" />
+  <setposition relativeto="ideal" x="0.19497490" y="1.12292480" z="-0.61669922" phix="-0.00079878" phiy="0.00141088" phiz="-0.00000204" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="8" />
+  <setposition relativeto="ideal" x="-0.11558286" y="1.28405762" z="-0.34161384" phix="0.00036745" phiy="-0.00176854" phiz="0.00021873" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="9" />
+  <setposition relativeto="ideal" x="-0.06768492" y="0.90130615" z="0.29167219" phix="0.00005586" phiy="-0.00144147" phiz="0.00021044" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="10" />
+  <setposition relativeto="ideal" x="-0.01265526" y="1.72930908" z="0.50030518" phix="0.00028893" phiy="0.00061376" phiz="0.00038331" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="11" />
+  <setposition relativeto="ideal" x="0.23335918" y="1.05029297" z="0.15486135" phix="0.00006433" phiy="0.00223650" phiz="-0.00011344" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="3" sector="12" />
+  <setposition relativeto="ideal" x="0.19958249" y="1.22137451" z="-0.43949804" phix="-0.00014166" phiy="0.00239128" phiz="0.00012512" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="1" />
+  <setposition relativeto="ideal" x="0.14537811" y="1.27618408" z="-0.77893066" phix="-0.00020415" phiy="0.00000348" phiz="-0.00027610" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="2" />
+  <setposition relativeto="ideal" x="-0.01059040" y="1.09790039" z="-0.50308432" phix="-0.00037660" phiy="-0.00132624" phiz="-0.00113081" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="3" />
+  <setposition relativeto="ideal" x="-0.21387434" y="1.05352783" z="0.19606379" phix="-0.00007513" phiy="-0.00138168" phiz="-0.00055230" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="4" />
+  <setposition relativeto="ideal" x="0.18476868" y="0.78442383" z="0.38110352" phix="-0.00015327" phiy="0.00130767" phiz="0.00002768" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="13" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="0.00000000" phiy="-0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="5" />
+  <setposition relativeto="ideal" x="0.01588514" y="1.09674072" z="0.34392012" phix="-0.00018192" phiy="0.00071298" phiz="0.00250759" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="6" />
+  <setposition relativeto="ideal" x="0.50738106" y="1.10528564" z="-0.19948849" phix="0.00015051" phiy="0.00073498" phiz="-0.00080664" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="7" />
+  <setposition relativeto="ideal" x="0.21385193" y="1.37457275" z="-0.43835449" phix="-0.00025775" phiy="-0.00000306" phiz="-0.00010646" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="8" />
+  <setposition relativeto="ideal" x="-0.12611978" y="1.17749023" z="-0.20190533" phix="-0.00045051" phiy="-0.00141569" phiz="0.00007209" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="9" />
+  <setposition relativeto="ideal" x="-0.27451914" y="1.30755615" z="0.35267835" phix="0.00007761" phiy="-0.00156833" phiz="-0.00131180" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="10" />
+  <setposition relativeto="ideal" x="0.05967712" y="1.12780762" z="0.40283203" phix="-0.00063617" phiy="0.00106588" phiz="-0.00021478" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="14" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="11" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-2" station="4" sector="12" />
+  <setposition relativeto="ideal" x="0.06640724" y="1.16931152" z="-0.35922236" phix="-0.00043481" phiy="0.00145562" phiz="-0.00036192" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="1" />
+  <setposition relativeto="ideal" x="0.22492981" y="0.64266968" z="-0.56408691" phix="-0.00012850" phiy="0.00000349" phiz="0.00044106" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="2" />
+  <setposition relativeto="ideal" x="-0.33529958" y="0.63507080" z="-0.24732085" phix="0.00024450" phiy="-0.00168209" phiz="0.00002801" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="3" />
+  <setposition relativeto="ideal" x="-0.23106828" y="0.61334229" z="0.30302351" phix="0.00063716" phiy="-0.00247510" phiz="0.00067261" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="4" />
+  <setposition relativeto="ideal" x="0.04647064" y="0.80041504" z="0.65240479" phix="0.00082507" phiy="0.00101197" phiz="-0.00008224" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="5" />
+  <setposition relativeto="ideal" x="0.48382348" y="0.52716064" z="0.30449855" phix="-0.00032249" phiy="0.00142223" phiz="-0.00075979" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="6" />
+  <setposition relativeto="ideal" x="0.39981334" y="0.64868164" z="-0.11669136" phix="-0.00011548" phiy="0.00201405" phiz="-0.00074852" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="7" />
+  <setposition relativeto="ideal" x="0.10531998" y="0.85681152" z="-0.48638916" phix="-0.00038759" phiy="0.00141110" phiz="-0.00053378" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="8" />
+  <setposition relativeto="ideal" x="-0.18585643" y="0.63641357" z="-0.14521600" phix="-0.00070472" phiy="-0.00228954" phiz="0.00011315" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="9" />
+  <setposition relativeto="ideal" x="-0.18675737" y="0.45483398" z="0.50737217" phix="-0.00055006" phiy="-0.00247442" phiz="0.00031354" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="10" />
+  <setposition relativeto="ideal" x="0.15855789" y="0.22451782" z="0.86657715" phix="0.00066807" phiy="0.00075324" phiz="0.00007282" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="11" />
+  <setposition relativeto="ideal" x="0.63860437" y="0.56610107" z="0.37526025" phix="0.00007095" phiy="0.00245894" phiz="0.00028966" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="1" sector="12" />
+  <setposition relativeto="ideal" x="0.60622151" y="0.53469849" z="-0.28221471" phix="0.00006688" phiy="0.00229166" phiz="0.00041871" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="1" />
+  <setposition relativeto="ideal" x="0.08710670" y="0.44360352" z="-0.76409912" phix="-0.00045723" phiy="0.00000330" phiz="-0.00016863" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="2" />
+  <setposition relativeto="ideal" x="-0.23091125" y="0.94583130" z="-0.44117926" phix="0.00009163" phiy="-0.00200140" phiz="0.00092857" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="3" />
+  <setposition relativeto="ideal" x="-0.24444156" y="0.73098755" z="0.10874896" phix="-0.00025402" phiy="-0.00239160" phiz="-0.00036540" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="4" />
+  <setposition relativeto="ideal" x="-0.01085854" y="0.69729614" z="0.45501709" phix="0.00001532" phiy="-0.00076785" phiz="-0.00003741" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="5" />
+  <setposition relativeto="ideal" x="0.36875156" y="0.50695801" z="0.28505874" phix="0.00092300" phiy="0.00062356" phiz="0.00072703" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="6" />
+  <setposition relativeto="ideal" x="0.41093030" y="0.45837402" z="-0.23561690" phix="-0.00027774" phiy="0.00155641" phiz="-0.00007878" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="7" />
+  <setposition relativeto="ideal" x="0.30903435" y="0.53710937" z="-0.53326416" phix="-0.00014397" phiy="-0.00000440" phiz="-0.00062839" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="8" />
+  <setposition relativeto="ideal" x="-0.00567708" y="0.76544189" z="-0.36450827" phix="-0.00063647" phiy="-0.00238887" phiz="-0.00027765" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="9" />
+  <setposition relativeto="ideal" x="-0.08304091" y="0.79092407" z="0.29147511" phix="-0.00086547" phiy="-0.00302770" phiz="0.00002869" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="10" />
+  <setposition relativeto="ideal" x="0.23384476" y="0.58358765" z="0.55493164" phix="-0.00002211" phiy="-0.00030422" phiz="0.00059812" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="11" />
+  <setposition relativeto="ideal" x="0.62885644" y="0.45474243" z="0.28666004" phix="-0.00096089" phiy="0.00180971" phiz="0.00007016" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="2" sector="12" />
+  <setposition relativeto="ideal" x="0.47547590" y="0.41610718" z="-0.37567244" phix="-0.00021669" phiy="0.00273458" phiz="0.00004071" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="1" />
+  <setposition relativeto="ideal" x="-0.00558090" y="0.77841187" z="-0.93969727" phix="-0.00006048" phiy="0.00000289" phiz="0.00013784" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="2" />
+  <setposition relativeto="ideal" x="-0.09012008" y="0.72558594" z="-0.37069216" phix="-0.00002645" phiy="-0.00159359" phiz="0.00102617" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="3" />
+  <setposition relativeto="ideal" x="-0.07464196" y="0.60894775" z="0.24995017" phix="0.00015741" phiy="-0.00151821" phiz="0.00018615" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="4" />
+  <setposition relativeto="ideal" x="0.16654396" y="1.00073242" z="0.47412109" phix="0.00017965" phiy="-0.00059756" phiz="0.00044685" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="5" />
+  <setposition relativeto="ideal" x="0.46228275" y="0.66455078" z="0.26908100" phix="-0.00007330" phiy="0.00146094" phiz="0.00029172" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="6" />
+  <setposition relativeto="ideal" x="0.92600145" y="0.61053467" z="-0.11425755" phix="-0.00039732" phiy="0.00136335" phiz="-0.00000990" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="7" />
+  <setposition relativeto="ideal" x="0.49995232" y="0.54638672" z="-0.83013916" phix="-0.00010528" phiy="-0.00000363" phiz="-0.00019914" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="8" />
+  <setposition relativeto="ideal" x="0.21318065" y="0.66488647" z="-0.31252296" phix="0.00000979" phiy="-0.00224624" phiz="-0.00077095" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="9" />
+  <setposition relativeto="ideal" x="0.13412803" y="0.49542236" z="0.34757845" phix="-0.00021184" phiy="-0.00215202" phiz="-0.00001654" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="10" />
+  <setposition relativeto="ideal" x="0.26428986" y="0.54736328" z="0.63751221" phix="-0.00045554" phiy="0.00037853" phiz="0.00053487" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="11" />
+  <setposition relativeto="ideal" x="0.51179719" y="0.55395508" z="0.37602172" phix="-0.00038533" phiy="0.00172234" phiz="0.00039107" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="3" sector="12" />
+  <setposition relativeto="ideal" x="0.43672258" y="0.45913696" z="-0.38765127" phix="-0.00027977" phiy="0.00220651" phiz="-0.00017232" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="1" />
+  <setposition relativeto="ideal" x="0.28595734" y="0.83480835" z="-0.73773193" phix="-0.00082517" phiy="0.00000339" phiz="0.00012201" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="2" />
+  <setposition relativeto="ideal" x="0.24570688" y="0.56768799" z="-0.49544369" phix="-0.00079059" phiy="-0.00134022" phiz="-0.00016210" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="3" />
+  <setposition relativeto="ideal" x="0.22234036" y="0.86947632" z="-0.00271956" phix="-0.00023140" phiy="-0.00155243" phiz="0.00065972" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="4" />
+  <setposition relativeto="ideal" x="0.47579956" y="0.83007812" z="0.15887451" phix="0.00020804" phiy="-0.00026916" phiz="0.00057127" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="13" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="0.00000000" phiy="-0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="5" />
+  <setposition relativeto="ideal" x="0.53420760" y="0.58493042" z="0.40952763" phix="0.00050971" phiy="0.00025093" phiz="0.00027094" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="6" />
+  <setposition relativeto="ideal" x="0.52382320" y="0.97970581" z="-0.15588459" phix="0.00025594" phiy="0.00033748" phiz="-0.00121154" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="7" />
+  <setposition relativeto="ideal" x="0.44860077" y="0.69393921" z="-0.47967529" phix="0.00008894" phiy="-0.00000278" phiz="-0.00011585" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="8" />
+  <setposition relativeto="ideal" x="0.13144430" y="0.23974609" z="-0.22600611" phix="-0.00045263" phiy="-0.00136333" phiz="-0.00047108" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="9" />
+  <setposition relativeto="ideal" x="0.07796499" y="0.67779541" z="0.37667941" phix="-0.00050065" phiy="-0.00183508" phiz="0.00002145" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="10" />
+  <setposition relativeto="ideal" x="0.21127319" y="0.71319580" z="0.46392822" phix="-0.00066102" phiy="0.00064259" phiz="0.00023048" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="14" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="11" />
+  <setposition relativeto="ideal" x="0.64031735" y="0.39074707" z="0.40972136" phix="-0.00025120" phiy="0.00206588" phiz="0.00008994" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="-1" station="4" sector="12" />
+  <setposition relativeto="ideal" x="0.25527896" y="0.30743408" z="-0.35786658" phix="-0.00003736" phiy="0.00092666" phiz="0.00037155" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="1" />
+  <setposition relativeto="ideal" x="-0.07028961" y="0.03258890" z="-0.89154053" phix="-0.00003534" phiy="0.00000479" phiz="0.00063801" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="5" />
+  <setposition relativeto="ideal" x="0.58531283" y="0.01218808" z="0.74706792" phix="0.00020443" phiy="0.00310587" phiz="-0.00006814" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="9" />
+  <setposition relativeto="ideal" x="-0.32891330" y="-0.01380020" z="0.45207979" phix="-0.00040449" phiy="-0.00360671" phiz="-0.00027449" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="2" />
+  <setposition relativeto="ideal" x="0.64339595" y="-0.01259500" z="-0.17832880" phix="-0.00003772" phiy="0.00297924" phiz="0.00040066" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="6" />
+  <setposition relativeto="ideal" x="-0.61816383" y="0.25136602" z="-0.04838281" phix="0.00009537" phiy="-0.00264871" phiz="-0.00023632" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="10" />
+  <setposition relativeto="ideal" x="-0.16713333" y="0.13321102" z="0.90859985" phix="0.00033228" phiy="0.00054251" phiz="-0.00050367" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="3" />
+  <setposition relativeto="ideal" x="0.62715638" y="-0.00947106" z="0.77791709" phix="-0.00049334" phiy="0.00197892" phiz="0.00019415" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="7" />
+  <setposition relativeto="ideal" x="-0.15703583" y="-0.50154006" z="-0.76373291" phix="-0.00024835" phiy="-0.00141779" phiz="-0.00036669" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="11" />
+  <setposition relativeto="ideal" x="-0.36109866" y="0.11865598" z="0.49354424" phix="0.00021494" phiy="-0.00385610" phiz="0.00031111" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="4" />
+  <setposition relativeto="ideal" x="-0.08122635" y="0.25531000" z="1.15103149" phix="0.00016661" phiy="0.00046530" phiz="0.00028962" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="8" />
+  <setposition relativeto="ideal" x="-0.41519926" y="1.33598006" z="-0.55252023" phix="0.00031374" phiy="-0.00407228" phiz="-0.00032509" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="1" sector="12" />
+  <setposition relativeto="ideal" x="0.51970092" y="0.08152121" z="-0.54733467" phix="0.00011142" phiy="0.00401325" phiz="0.00041078" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="1" />
+  <setposition relativeto="ideal" x="-0.16352463" y="0.14051598" z="-0.96112061" phix="-0.00059629" phiy="0.00000339" phiz="0.00008891" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="5" />
+  <setposition relativeto="ideal" x="0.61938497" y="0.32008803" z="0.71495711" phix="0.00013346" phiy="0.00269817" phiz="-0.00008638" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="9" />
+  <setposition relativeto="ideal" x="-0.23434926" y="1.34598005" z="0.29390531" phix="-0.00042555" phiy="-0.00340583" phiz="-0.00003882" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="2" />
+  <setposition relativeto="ideal" x="0.62309785" y="0.01268530" z="-0.38160529" phix="0.00008992" phiy="0.00282538" phiz="0.00063338" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="6" />
+  <setposition relativeto="ideal" x="-0.60593446" y="0.19484401" z="-0.16376709" phix="-0.00027635" phiy="-0.00239477" phiz="0.00012859" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="10" />
+  <setposition relativeto="ideal" x="0.01721954" y="0.21617699" z="0.84790039" phix="-0.00022894" phiy="0.00079877" phiz="-0.00023296" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="3" />
+  <setposition relativeto="ideal" x="0.60957849" y="-0.12643200" z="0.62765929" phix="-0.00021318" phiy="0.00267628" phiz="0.00124470" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="7" />
+  <setposition relativeto="ideal" x="-0.16361618" y="0.06171501" z="-0.78228760" phix="0.00042199" phiy="-0.00141959" phiz="0.00048141" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="11" />
+  <setposition relativeto="ideal" x="-0.29023082" y="0.26752603" z="0.43448772" phix="0.00041537" phiy="-0.00322775" phiz="0.00035360" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="4" />
+  <setposition relativeto="ideal" x="0.04347992" y="0.26914799" z="1.01123047" phix="-0.00009388" phiy="-0.00076251" phiz="-0.00013700" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="8" />
+  <setposition relativeto="ideal" x="-0.21416663" y="1.52498996" z="-0.65445577" phix="-0.00014490" phiy="-0.00346029" phiz="-0.00001731" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="2" sector="12" />
+  <setposition relativeto="ideal" x="0.51083542" y="0.17378402" z="-0.57912884" phix="-0.00039620" phiy="0.00385283" phiz="0.00027175" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="1" />
+  <setposition relativeto="ideal" x="-0.17744446" y="0.02478760" z="-0.95709229" phix="0.00024286" phiy="0.00000406" phiz="0.00048728" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="5" />
+  <setposition relativeto="ideal" x="0.69431604" y="0.33392501" z="0.74079866" phix="0.00101248" phiy="0.00257299" phiz="-0.00048424" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="9" />
+  <setposition relativeto="ideal" x="-0.17937933" y="0.11624002" z="0.44094312" phix="0.00007797" phiy="-0.00273359" phiz="0.00055498" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="2" />
+  <setposition relativeto="ideal" x="0.43644097" y="-0.09444141" z="-0.33375775" phix="-0.00041668" phiy="0.00216459" phiz="0.00107654" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="6" />
+  <setposition relativeto="ideal" x="-0.57736296" y="1.31568003" z="-0.22237306" phix="-0.00005644" phiy="-0.00268931" phiz="-0.00020355" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="10" />
+  <setposition relativeto="ideal" x="-0.20169449" y="0.18609703" z="0.89758301" phix="0.00046007" phiy="0.00059793" phiz="-0.00017039" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="3" />
+  <setposition relativeto="ideal" x="0.37149538" y="-0.08035022" z="0.60798744" phix="-0.00013699" phiy="0.00214323" phiz="0.00029361" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="7" />
+  <setposition relativeto="ideal" x="-0.16369820" y="-0.03057009" z="-0.95483398" phix="0.00048463" phiy="-0.00000354" phiz="-0.00035610" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="11" />
+  <setposition relativeto="ideal" x="-0.53446149" y="0.13574499" z="0.47844882" phix="0.00021713" phiy="-0.00270236" phiz="-0.00024311" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="4" />
+  <setposition relativeto="ideal" x="0.12551117" y="0.30279303" z="1.12744141" phix="0.00005553" phiy="-0.00056304" phiz="0.00039368" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="8" />
+  <setposition relativeto="ideal" x="-0.25023779" y="0.07518381" z="-0.47706469" phix="-0.00023470" phiy="-0.00256517" phiz="-0.00011480" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="3" sector="12" />
+  <setposition relativeto="ideal" x="0.55869926" y="-0.15805995" z="-0.57975605" phix="-0.00041845" phiy="0.00317055" phiz="0.00033822" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="1" />
+  <setposition relativeto="ideal" x="0.11856842" y="0.01536852" z="-0.77062988" phix="-0.00010629" phiy="0.00000332" phiz="0.00039909" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="2" />
+  <setposition relativeto="ideal" x="0.18508727" y="-0.03248763" z="-0.44173533" phix="-0.00004339" phiy="0.00153363" phiz="-0.00003104" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="3" />
+  <setposition relativeto="ideal" x="0.13866897" y="1.19423997" z="0.33899762" phix="0.00021533" phiy="0.00224029" phiz="0.00033631" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="4" />
+  <setposition relativeto="ideal" x="0.39195251" y="0.44519800" z="0.68725586" phix="0.00010954" phiy="-0.00009515" phiz="-0.00057584" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="13" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="0.00000000" phiy="-0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="5" />
+  <setposition relativeto="ideal" x="0.66164816" y="0.19147801" z="0.65302727" phix="0.00016032" phiy="0.00149066" phiz="-0.00034574" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="6" />
+  <setposition relativeto="ideal" x="-0.61746665" y="0.15066302" z="-0.25863157" phix="-0.00030396" phiy="-0.00143366" phiz="-0.00080763" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="7" />
+  <setposition relativeto="ideal" x="-0.19727325" y="-0.09647620" z="-0.81207275" phix="-0.00075061" phiy="-0.00000335" phiz="-0.00057972" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="8" />
+  <setposition relativeto="ideal" x="-0.21653630" y="0.07360172" z="-0.85680235" phix="-0.00003090" phiy="0.00071787" phiz="-0.00024278" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="9" />
+  <setposition relativeto="ideal" x="-0.18375458" y="-0.17964804" z="0.53433671" phix="-0.00008207" phiy="-0.00280759" phiz="-0.00009208" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="10" />
+  <setposition relativeto="ideal" x="-0.28240967" y="0.24743903" z="0.81219482" phix="-0.00057801" phiy="0.00033923" phiz="-0.00008085" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="14" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="0.00000000" phiy="-0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="11" />
+  <setposition relativeto="ideal" x="-0.58759020" y="0.22949398" z="0.53763354" phix="0.00049110" phiy="-0.00256992" phiz="-0.00044048" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="0" station="4" sector="12" />
+  <setposition relativeto="ideal" x="0.53561678" y="-0.18763995" z="-0.39701480" phix="-0.00020591" phiy="0.00199996" phiz="-0.00036164" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="1" />
+  <setposition relativeto="ideal" x="-0.13511658" y="0.56665039" z="-0.51339722" phix="0.00042888" phiy="0.00000343" phiz="0.00077889" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="2" />
+  <setposition relativeto="ideal" x="0.29582728" y="0.76416016" z="-0.26189959" phix="0.00162522" phiy="0.00302283" phiz="-0.00051078" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="3" />
+  <setposition relativeto="ideal" x="0.35978978" y="0.31848145" z="0.37173985" phix="-0.00034240" phiy="0.00132750" phiz="0.00057816" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="4" />
+  <setposition relativeto="ideal" x="-0.11326599" y="0.48663330" z="0.68676758" phix="-0.00006104" phiy="-0.00018366" phiz="0.00013402" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="5" />
+  <setposition relativeto="ideal" x="-0.42025075" y="0.55758667" z="0.31322279" phix="0.00009221" phiy="-0.00210709" phiz="0.00075677" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="6" />
+  <setposition relativeto="ideal" x="-0.25536640" y="0.46469116" z="-0.16752731" phix="-0.00006080" phiy="-0.00135451" phiz="-0.00047959" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="7" />
+  <setposition relativeto="ideal" x="-0.04544067" y="0.57754517" z="-0.58160400" phix="0.00014480" phiy="-0.00000313" phiz="0.00056193" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="8" />
+  <setposition relativeto="ideal" x="0.42689503" y="0.37515259" z="-0.14260212" phix="-0.00035057" phiy="0.00259391" phiz="0.00002558" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="9" />
+  <setposition relativeto="ideal" x="0.27595827" y="0.39950562" z="0.52243784" phix="0.00024200" phiy="0.00220673" phiz="0.00010395" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="10" />
+  <setposition relativeto="ideal" x="-0.18125916" y="0.66583252" z="0.76132202" phix="0.00056667" phiy="0.00056568" phiz="-0.00014305" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="11" />
+  <setposition relativeto="ideal" x="-0.55586211" y="0.61297607" z="0.42246770" phix="0.00023914" phiy="-0.00205584" phiz="-0.00026319" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="1" sector="12" />
+  <setposition relativeto="ideal" x="-0.74626077" y="0.73522949" z="-0.35725884" phix="0.00077697" phiy="-0.00188469" phiz="0.00046611" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="1" />
+  <setposition relativeto="ideal" x="-0.17057610" y="0.87448120" z="-0.62890625" phix="0.00041240" phiy="0.00000380" phiz="0.00016417" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="2" />
+  <setposition relativeto="ideal" x="0.33161952" y="0.72714233" z="-0.37848952" phix="0.00037072" phiy="0.00243397" phiz="0.00077575" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="3" />
+  <setposition relativeto="ideal" x="0.29213145" y="0.51721191" z="0.17572528" phix="-0.00043085" phiy="0.00231272" phiz="0.00030017" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="4" />
+  <setposition relativeto="ideal" x="-0.06797028" y="0.45956421" z="0.41143799" phix="-0.00028056" phiy="0.00053088" phiz="-0.00049980" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="5" />
+  <setposition relativeto="ideal" x="-0.36046284" y="0.50729370" z="0.32099521" phix="-0.00033774" phiy="-0.00202089" phiz="-0.00000533" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="6" />
+  <setposition relativeto="ideal" x="-0.28814176" y="0.65451050" z="-0.26073388" phix="-0.00024078" phiy="-0.00153782" phiz="0.00000606" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="7" />
+  <setposition relativeto="ideal" x="-0.15063286" y="0.10147095" z="-0.69256592" phix="0.00008790" phiy="-0.00000460" phiz="-0.00004406" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="8" />
+  <setposition relativeto="ideal" x="0.35714125" y="0.63665771" z="-0.32397009" phix="-0.00006303" phiy="0.00321769" phiz="-0.00000331" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="9" />
+  <setposition relativeto="ideal" x="0.34457886" y="0.46310425" z="0.37093697" phix="-0.00007517" phiy="0.00268202" phiz="0.00008878" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="10" />
+  <setposition relativeto="ideal" x="-0.18218613" y="0.83529663" z="0.65414429" phix="0.00015176" phiy="0.00039789" phiz="0.00040678" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="11" />
+  <setposition relativeto="ideal" x="-0.16788746" y="0.70486450" z="0.35768413" phix="0.00003284" phiy="-0.00197702" phiz="0.00008742" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="2" sector="12" />
+  <setposition relativeto="ideal" x="-0.35323933" y="0.81738281" z="-0.32752670" phix="0.00093122" phiy="-0.00185437" phiz="-0.00013982" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="1" />
+  <setposition relativeto="ideal" x="-0.12618446" y="0.82412720" z="-0.56695557" phix="0.00059006" phiy="0.00000300" phiz="0.00018848" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="2" />
+  <setposition relativeto="ideal" x="0.26734254" y="0.59683228" z="-0.33744050" phix="0.00048658" phiy="0.00178415" phiz="0.00061832" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="3" />
+  <setposition relativeto="ideal" x="0.06842778" y="0.39981079" z="0.24937976" phix="0.00012955" phiy="0.00219709" phiz="0.00019748" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="4" />
+  <setposition relativeto="ideal" x="-0.19391251" y="0.50082397" z="0.47961426" phix="-0.00072131" phiy="0.00000636" phiz="0.00009839" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="5" />
+  <setposition relativeto="ideal" x="-0.41758901" y="0.48626709" z="0.31306809" phix="0.00021190" phiy="-0.00131768" phiz="-0.00050036" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="6" />
+  <setposition relativeto="ideal" x="-0.56586820" y="0.60696411" z="-0.20307390" phix="0.00003653" phiy="-0.00148163" phiz="0.00006674" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="7" />
+  <setposition relativeto="ideal" x="-0.15110016" y="0.51779175" z="-0.62695312" phix="0.00034556" phiy="-0.00000343" phiz="-0.00050931" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="8" />
+  <setposition relativeto="ideal" x="0.23410715" y="0.50491333" z="-0.28713831" phix="-0.00016896" phiy="0.00234304" phiz="-0.00014542" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="9" />
+  <setposition relativeto="ideal" x="0.11625311" y="0.39703369" z="0.44708382" phix="0.00057761" phiy="0.00208593" phiz="-0.00132292" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="10" />
+  <setposition relativeto="ideal" x="-0.40135002" y="0.75375366" z="0.70617676" phix="0.00039904" phiy="0.00046874" phiz="-0.00032278" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="11" />
+  <setposition relativeto="ideal" x="-0.38166310" y="0.74218750" z="0.33775666" phix="0.00030707" phiy="-0.00179065" phiz="-0.00022345" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="3" sector="12" />
+  <setposition relativeto="ideal" x="-0.55758472" y="0.63989258" z="-0.40765960" phix="0.00037768" phiy="-0.00166857" phiz="0.00001592" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="1" />
+  <setposition relativeto="ideal" x="-0.33950043" y="0.75091553" z="-0.62579346" phix="0.00072154" phiy="0.00000337" phiz="0.00009733" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="2" />
+  <setposition relativeto="ideal" x="-0.08491787" y="0.70617676" z="-0.37428022" phix="0.00089740" phiy="0.00125667" phiz="-0.00076352" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="3" />
+  <setposition relativeto="ideal" x="-0.21985594" y="0.25872803" z="0.31975985" phix="0.00066037" phiy="0.00147078" phiz="-0.00064514" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="4" />
+  <setposition relativeto="ideal" x="-0.36453247" y="0.61199951" z="0.35260010" phix="0.00032848" phiy="0.00131764" phiz="-0.00004039" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="13" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="-0.00000000" phiz="0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="5" />
+  <setposition relativeto="ideal" x="-0.42251049" y="0.44607544" z="0.39141656" phix="-0.00033121" phiy="-0.00063936" phiz="-0.00046153" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="6" />
+  <setposition relativeto="ideal" x="-0.48571008" y="0.55599976" z="-0.34139661" phix="-0.00011429" phiy="-0.00118426" phiz="-0.00095120" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="7" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="0.00000000" phiy="0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="8" />
+  <setposition relativeto="ideal" x="-0.11148751" y="0.59497070" z="-0.19813331" phix="-0.00000757" phiy="0.00149436" phiz="-0.00069200" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="9" />
+  <setposition relativeto="ideal" x="0.10156077" y="0.47729492" z="0.45605978" phix="-0.00022421" phiy="0.00218523" phiz="0.00012678" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="10" />
+  <setposition relativeto="ideal" x="-0.33792114" y="0.70187378" z="0.38415527" phix="-0.00035046" phiy="-0.00135020" phiz="-0.00061918" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="14" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="0.00000000" phiy="-0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="11" />
+  <setposition relativeto="ideal" x="-0.84232936" y="0.31420898" z="0.46738010" phix="0.00021325" phiy="-0.00127039" phiz="0.00012274" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="1" station="4" sector="12" />
+  <setposition relativeto="ideal" x="-0.68451183" y="0.86361694" z="-0.34967177" phix="0.00140605" phiy="-0.00035248" phiz="-0.00066457" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="1" />
+  <setposition relativeto="ideal" x="-0.06214523" y="0.69622803" z="-0.46630859" phix="0.00027258" phiy="0.00000305" phiz="0.00065151" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="2" />
+  <setposition relativeto="ideal" x="0.17281444" y="1.13702393" z="-0.23749478" phix="0.00012869" phiy="0.00166390" phiz="-0.00033189" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="3" />
+  <setposition relativeto="ideal" x="0.57002349" y="0.92816162" z="0.34610481" phix="-0.00047899" phiy="0.00221247" phiz="-0.00001255" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="4" />
+  <setposition relativeto="ideal" x="-0.10543823" y="0.93603516" z="0.60226440" phix="0.00061779" phiy="0.00015583" phiz="0.00035249" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="5" />
+  <setposition relativeto="ideal" x="-0.42977774" y="0.76879883" z="0.35007925" phix="-0.00034188" phiy="-0.00171439" phiz="-0.00014290" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="6" />
+  <setposition relativeto="ideal" x="-0.40294356" y="0.94659424" z="-0.19868166" phix="-0.00021764" phiy="-0.00176961" phiz="-0.00033954" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="7" />
+  <setposition relativeto="ideal" x="-0.08975983" y="0.46875000" z="-0.53695679" phix="-0.00052702" phiy="-0.00000453" phiz="-0.00069812" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="8" />
+  <setposition relativeto="ideal" x="0.26390575" y="0.90246582" z="-0.16492287" phix="-0.00030279" phiy="0.00282540" phiz="-0.00054276" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="9" />
+  <setposition relativeto="ideal" x="0.29325684" y="1.04809570" z="0.41656610" phix="0.00047515" phiy="0.00251714" phiz="-0.00039650" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="10" />
+  <setposition relativeto="ideal" x="-0.14474106" y="1.30059814" z="0.80487061" phix="0.00075895" phiy="0.00077383" phiz="-0.00030505" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="11" />
+  <setposition relativeto="ideal" x="-0.23959337" y="1.05474854" z="0.33207162" phix="0.00034608" phiy="-0.00263764" phiz="0.00011274" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="1" sector="12" />
+  <setposition relativeto="ideal" x="-0.29420368" y="1.31713867" z="-0.32869803" phix="0.00044324" phiy="-0.00210658" phiz="-0.00050303" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="1" />
+  <setposition relativeto="ideal" x="0.12615585" y="1.19360352" z="-0.71026611" phix="0.00105069" phiy="0.00000249" phiz="0.00066499" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="2" />
+  <setposition relativeto="ideal" x="0.46685890" y="1.15515137" z="-0.34850980" phix="0.00031633" phiy="0.00214832" phiz="0.00041326" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="3" />
+  <setposition relativeto="ideal" x="0.46432510" y="0.94482422" z="0.14798467" phix="-0.00003450" phiy="0.00214924" phiz="0.00037951" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="4" />
+  <setposition relativeto="ideal" x="-0.00809669" y="1.10601807" z="0.45703125" phix="-0.00032233" phiy="0.00040948" phiz="0.00015441" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="5" />
+  <setposition relativeto="ideal" x="-0.21986454" y="1.08691406" z="0.33207998" phix="-0.00151391" phiy="-0.00118799" phiz="0.00019802" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="6" />
+  <setposition relativeto="ideal" x="-0.32908133" y="0.93988037" z="-0.25943871" phix="-0.00033216" phiy="-0.00118728" phiz="-0.00039150" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="7" />
+  <setposition relativeto="ideal" x="-0.20030022" y="0.63037109" z="-0.66937256" phix="-0.00020192" phiy="-0.00000277" phiz="-0.00012597" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="8" />
+  <setposition relativeto="ideal" x="0.38686159" y="0.93707275" z="-0.38267989" phix="0.00003058" phiy="0.00276733" phiz="-0.00040845" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="9" />
+  <setposition relativeto="ideal" x="0.36177131" y="0.99597168" z="0.28926498" phix="0.00008444" phiy="0.00281179" phiz="-0.00063236" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="10" />
+  <setposition relativeto="ideal" x="-0.01845932" y="1.32653809" z="0.64831543" phix="0.00067304" phiy="0.00046955" phiz="-0.00032217" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="11" />
+  <setposition relativeto="ideal" x="-0.14010869" y="1.26257324" z="0.29168660" phix="0.00091348" phiy="-0.00186170" phiz="-0.00002732" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="2" sector="12" />
+  <setposition relativeto="ideal" x="-0.12742079" y="1.75256348" z="-0.37847515" phix="0.00038621" phiy="-0.00222190" phiz="0.00021282" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="1" />
+  <setposition relativeto="ideal" x="0.16869926" y="1.07061768" z="-0.54412842" phix="0.00064110" phiy="0.00000372" phiz="0.00024606" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="2" />
+  <setposition relativeto="ideal" x="0.40970475" y="1.08392334" z="-0.25961723" phix="0.00064861" phiy="0.00143305" phiz="0.00101181" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="3" />
+  <setposition relativeto="ideal" x="0.56950150" y="0.96948242" z="0.27180593" phix="0.00012257" phiy="0.00154724" phiz="0.00014142" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="4" />
+  <setposition relativeto="ideal" x="-0.10789490" y="0.88867188" z="0.50427246" phix="-0.00034582" phiy="0.00005845" phiz="-0.00067141" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="5" />
+  <setposition relativeto="ideal" x="-0.43200715" y="0.86346436" z="0.32412504" phix="-0.00076129" phiy="-0.00135514" phiz="-0.00029618" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="6" />
+  <setposition relativeto="ideal" x="-0.47867369" y="0.64398193" z="-0.16722191" phix="0.00011195" phiy="-0.00154354" phiz="-0.00109920" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="7" />
+  <setposition relativeto="ideal" x="-0.04720497" y="0.74993896" z="-0.46429443" phix="0.00059560" phiy="-0.00141648" phiz="-0.00064257" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="8" />
+  <setposition relativeto="ideal" x="0.31419526" y="0.91876221" z="-0.27930957" phix="0.00002131" phiy="0.00215669" phiz="-0.00072020" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="9" />
+  <setposition relativeto="ideal" x="0.14429849" y="1.08300781" z="0.32982732" phix="0.00030086" phiy="0.00193013" phiz="-0.00018767" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="10" />
+  <setposition relativeto="ideal" x="-0.16717148" y="1.37701416" z="0.66729736" phix="0.00054090" phiy="0.00036697" phiz="-0.00040279" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="11" />
+  <setposition relativeto="ideal" x="-0.26491880" y="1.07623291" z="0.24876982" phix="0.00063379" phiy="-0.00215073" phiz="0.00014900" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="3" sector="12" />
+  <setposition relativeto="ideal" x="-0.14894567" y="1.19519043" z="-0.36442677" phix="0.00078631" phiy="-0.00212593" phiz="0.00000082" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="1" />
+  <setposition relativeto="ideal" x="-0.05706024" y="1.01928711" z="-0.63726807" phix="0.00035437" phiy="0.00000337" phiz="0.00027052" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="2" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="3" />
+  <setposition relativeto="ideal" x="0.11556352" y="0.85400391" z="0.21145338" phix="0.00031737" phiy="0.00116403" phiz="0.00046689" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="4" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="-0.00000000" phiz="0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="13" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="-0.00000000" phiz="0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="5" />
+  <setposition relativeto="ideal" x="-0.33942865" y="0.98370361" z="0.25142085" phix="-0.00097835" phiy="-0.00090786" phiz="-0.00014349" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="6" />
+  <setposition relativeto="ideal" x="-0.13468989" y="1.12127686" z="-0.17475702" phix="-0.00000808" phiy="-0.00023878" phiz="-0.00086034" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="7" />
+  <setposition relativeto="ideal" x="-0.12637329" y="0.56341553" z="-0.68872070" phix="0.00042834" phiy="-0.00000370" phiz="-0.00008918" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="8" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="0.00000000" phiz="0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="9" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="-0.00000000" phiy="-0.00000000" phiz="0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="10" />
+  <setposition relativeto="ideal" x="-0.19836426" y="1.23791504" z="0.60314941" phix="0.00051124" phiy="0.00034781" phiz="0.00016225" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="14" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="0.00000000" phiy="-0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="11" />
+  <setposition relativeto="ideal" x="0.00000000" y="0.00000000" z="0.00000000" phix="0.00000000" phiy="-0.00000000" phiz="-0.00000000" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+<operation>
+  <DTChamber wheel="2" station="4" sector="12" />
+  <setposition relativeto="ideal" x="-0.31088168" y="1.36309814" z="-0.35804295" phix="0.00074782" phiy="-0.00094821" phiz="-0.00025454" />
+  <setape xx="0.00000000" xy="0.00000000" xz="0.00000000" yy="0.00000000" yz="0.00000000" zz="0.00000000" />
+</operation>
+
+</MuonAlignment>
